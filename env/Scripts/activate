@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='C:\Users\milla\OneDrive\Escritorio\Flask_TEST\env'
+VIRTUAL_ENV='C:\Users\milla\OneDrive\Escritorio\pruebas_flask-\env'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

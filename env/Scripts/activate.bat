@@ -2,7 +2,7 @@
 
 
 
-set "VIRTUAL_ENV=C:\Users\milla\OneDrive\Escritorio\Flask_TEST\env"
+set "VIRTUAL_ENV=C:\Users\milla\OneDrive\Escritorio\pruebas_flask-\env"
 
 
 
@@ -70,3 +70,4 @@ set "PATH=%VIRTUAL_ENV%\Scripts;%PATH%"
 
 set "FLASK_APP=run.py"
 set "FLASK_ENV=development"
+
